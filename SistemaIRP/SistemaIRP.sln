@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DeskIRP", "DeskIRP\DeskIRP.vbproj", "{E1E6AB8B-CA87-4E6B-B7DF-2A8EC973AE2C}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Class_SYSIRP_Controller", "Class_SYSIRP_Controller\Class_SYSIRP_Controller.vbproj", "{3C2B4BE8-0E7D-4DD3-A10D-D43252A5E956}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Class_SYSIRP_Data", "Class_SYSIRP_Data\Class_SYSIRP_Data.vbproj", "{5FB81EBC-EFAB-4414-8AEF-0CCC296B3AF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E1E6AB8B-CA87-4E6B-B7DF-2A8EC973AE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1E6AB8B-CA87-4E6B-B7DF-2A8EC973AE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1E6AB8B-CA87-4E6B-B7DF-2A8EC973AE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2B4BE8-0E7D-4DD3-A10D-D43252A5E956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2B4BE8-0E7D-4DD3-A10D-D43252A5E956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2B4BE8-0E7D-4DD3-A10D-D43252A5E956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2B4BE8-0E7D-4DD3-A10D-D43252A5E956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB81EBC-EFAB-4414-8AEF-0CCC296B3AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB81EBC-EFAB-4414-8AEF-0CCC296B3AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB81EBC-EFAB-4414-8AEF-0CCC296B3AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB81EBC-EFAB-4414-8AEF-0CCC296B3AF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
